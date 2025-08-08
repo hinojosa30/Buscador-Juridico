@@ -1,0 +1,386 @@
+[
+  {
+    "Palabra clave": "persona fisica",
+    "Articulo": 8,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "Trabajador es la persona física que presta a otra, física o moral, un trabajo personal subordinado.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Patron",
+    "Articulo": 10,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "Patrón es la persona física o moral que utiliza los servicios de uno o varios trabajadores.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Subcontratacion",
+    "Articulo": 12,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "Queda prohibida la subcontratación de personal, entendiéndose esta cuando una persona física o moral proporciona o pone a disposición trabajadores propios en beneficio de otra.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Clasificacion de contribuciones",
+    "Articulo": 2,
+    "Fraccion": "I-IV",
+    "Ley": "CFF",
+    "Texto": "Las contribuciones se clasifican en impuestos, aportaciones de seguridad social, contribuciones de mejoras y derechos, las que se definen de la siguiente manera",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Impuestos",
+    "Articulo": 2,
+    "Fraccion": "I",
+    "Ley": "CFF",
+    "Texto": "Impuestos son las contribuciones establecidas en ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Aportaciones de seg. Social",
+    "Articulo": 2,
+    "Fraccion": "II",
+    "Ley": "CFF",
+    "Texto": "son las contribuciones establecidas en ley a cargo de personas que son sustituidas por el Estado en el cumplimiento de obligaciones fijadas por la ley en materia de seguridad social.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Contribuciones de mejoras",
+    "Articulo": 2,
+    "Fraccion": "III",
+    "Ley": "CFF",
+    "Texto": "Contribuciones de mejoras son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Derechos",
+    "Articulo": 2,
+    "Fraccion": "IV",
+    "Ley": "CFF",
+    "Texto": "Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público de la Nación, así como por recibir servicios que presta el Estado en sus funciones de derecho público",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Creditos fiscales",
+    "Articulo": 4,
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de sus accesorios",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Creditos fiscales",
+    "Articulo": "4-A",
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Los impuestos y sus accesorios exigibles por los Estados extranjeros cuya recaudación y cobro sea solicitado a México, de conformidad con los tratados internacionales sobre asistencia mutua en el cobro de los que México sea parte, les serán aplicables las disposiciones de este Código referentes a la notificación y ejecución de los créditos fiscales",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Formas de notificación (penal)",
+    "Articulo": 82,
+    "Fraccion": "",
+    "Ley": "CNPP",
+    "Texto": "Las notificaciones se practicaran personalmente, por lista, estrado o boletin judicial.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Residentes en territorio (P. Fisicas)",
+    "Articulo": 9,
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Las personas fisicas que hayan establecido su casa habitacion en México, se consideran residentes en México si en territorio nacional se encuentra su centro de intereses vitales, y las de nacionalidad Mexicana que sean funcionarios de estado o trabajadores del mismo.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Residentes en territorio (P. Morales)",
+    "Articulo": 9,
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Las personas morales que hayan establecido en México la administración principal del negosio o su sede directiva efectiva.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Domicilio Fiscal",
+    "Articulo": 10,
+    "Fraccion": "I",
+    "Ley": "CFF",
+    "Texto": "Tratandose de personas fisicas, cuando realizan act. Empresariales, el local en que se encuentre el principal asiento de sus negocios, el local que utilicen para el desempeño de sus actividades y su casa habitacion cuando no cuente con un local.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Cancelacion de CFDI",
+    "Articulo": "29-A",
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Los CFDIS solo podran cancelarse en el ejercicio en el que se expidan y siempre que la persona a favor de quien se expida acepte su cancelacion.",
+    "JURISPRUDENCIA APLICABLE": "R. 2030101 \"Cancelación de CFDI en el mismo ejercicio fiscal, viola la seguridad juridica"
+  },
+  {
+    "Palabra clave": "Principios del Procedimiento penal",
+    "Articulo": "04 al 14",
+    "Fraccion": "",
+    "Ley": "CNPP",
+    "Texto": "El proceso penal será acusatorio y oral, en él se observarán los principios de publicidad, contradicción, concentración, continuidad e inmediación y aquellos previstos en la Constitución",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Derechos en el Procedimiento Penal",
+    "Articulo": "15 al 19",
+    "Fraccion": "",
+    "Ley": "CNPP",
+    "Texto": "En estos articulos se establecen los derechos en el procedimiento penal, como derecho a la intimidad, justicia pronta, derecho a una defensa y asesoria juridica adecuada, garantia de ser informado de sus derechos y deecho al respeto a la libertad personal.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Reglas de competencia en el PP.",
+    "Articulo": 20,
+    "Fraccion": "I-VIII",
+    "Ley": "CNPP",
+    "Texto": "Para determinar la competencia territorial de los Órganos jurisdiccionales federales o locales, según corresponda, se observarán las siguientes reglas de las fracciones I a la VIII.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Tipos de Incompetencia",
+    "Articulo": 25,
+    "Fraccion": "",
+    "Ley": "CNPP",
+    "Texto": "La incompetencia puede decretarse por declinatoria o por inhibitoria.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Reglas de Incompetancia",
+    "Articulo": 26,
+    "Fraccion": "I-III",
+    "Ley": "CNPP",
+    "Texto": "Para la decisión de la incompetencia se observarán las siguientes reglas, vease fracciones de la I a III.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Procedencia de Incompetencia por declaratoria",
+    "Articulo": 27,
+    "Fraccion": "",
+    "Ley": "CNPP",
+    "Texto": "En cualquier etapa del procedimiento, salvo las excepciones previstas en este Código,",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Procedencia de Incompetencia por inhibitoria",
+    "Articulo": 28,
+    "Fraccion": "",
+    "Ley": "CNPP",
+    "Texto": "En cualquier etapa del procedimiento, la inhibitoria se tramitará a petición de cualquiera de las partes ante el Órgano jurisdiccional que crea competente para que se avoque al conocimiento del asunto",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Supuesto de Flagrancia",
+    "Articulo": 146,
+    "Fraccion": "",
+    "Ley": "CNPP",
+    "Texto": "Se entiende por flagrancia cuando: la persona sea detenida en el momento de estar cometiendo un delito o inmediatamente despues de cometerlo es detenido.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Detencion en caso de Flagrancia",
+    "Articulo": 147,
+    "Fraccion": "",
+    "Ley": "CNPP",
+    "Texto": "Cualquier persona podrá detener a otra en la comisión de un delito flagrante, debiendo entregar inmediatamente al detenido a la autoridad más próxima",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Reglas de las Medidas Cautelares",
+    "Articulo": 153,
+    "Fraccion": "",
+    "Ley": "CNPP",
+    "Texto": "Las medidas cautelares serán impuestas mediante resolución judicial, por el tiempo indispensable para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Tipos de Medidas Cautelares",
+    "Articulo": 155,
+    "Fraccion": "",
+    "Ley": "CNPP",
+    "Texto": "La presentación periódica ante el juez o ante autoridad distinta que aquél designe, La exhibición de una garantía económica, El embargo de bienes, La inmovilización de cuentas, La prohibición de salir sin autorización del país, entre otras.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Plazos",
+    "Articulo": 12,
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. y 5 de mayo; el 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de diciembre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo y el 25 de diciembre.",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Practica de diligencias",
+    "Articulo": 13,
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:30 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Enajenacion de bienes",
+    "Articulo": 14,
+    "Fraccion": "I-IX",
+    "Ley": "CFF",
+    "Texto": "Descripcion de lo que se entiende por enajenacion de bienes",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Buzon tributario",
+    "Articulo": 13,
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "El buzón tributario se regirá conforme al horario de la Zona Centro de México, de conformidad con la Ley del Sistema de Horario en los Estados Unidos Mexicanos",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Arrendamiento Financiero",
+    "Articulo": 15,
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Para efectos fiscales, arrendamiento financiero es el contrato por el cual una persona se obliga a otorgar a otra el uso o goce temporal de bienes tangibles a plazo forzoso, obligándose esta última liquidar, en pagos parciales como contraprestación, una cantidad en dinero determinada o determinable que cubra el valor de adquisición de los bienes",
+    "JURISPRUDENCIA APLICABLE": "S/R"
+  },
+  {
+    "Palabra clave": "Escision de sociedades",
+    "Articulo": "15-A",
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Se entiende por escisión de sociedades, la transmisión de la totalidad o parte de los activos, pasivos y capital social de una sociedad residente en el país, a la cual se le denominará escindente",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Entidad Financiera",
+    "Articulo": "15-C",
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Para los efectos de este Código, se entenderá como entidad financiera a las instituciones de crédito, instituciones de seguros que ofrecen seguros de vida, administradoras de fondos para el retiro, uniones de crédito, casas de bolsa, sociedades financieras populares",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Subcontratacion",
+    "Articulo": "15-D",
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "No tendrán efectos fiscales de deducción o acreditamiento, los pagos o contraprestaciones realizados por concepto de subcontratación de personal para desempeñar actividades relacionadas tanto con el objeto social como con la actividad económica preponderante del contratante.",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Actividades Empresariales",
+    "Articulo": 16,
+    "Fraccion": "I-VI",
+    "Ley": "CFF",
+    "Texto": "Se entendera por actividades empresariales lo descrito en las fracciones I a VI",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Operaciones financieras",
+    "Articulo": "16-A",
+    "Fraccion": "I-III",
+    "Ley": "CFF",
+    "Texto": "Para los efectos de las disposiciones fiscales, se entiende por operaciones financieras, lo dispuesto en las fracciones I a III",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Medios Electronicos",
+    "Articulo": "17-D",
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Cuando las disposiciones fiscales obliguen a presentar documentos, éstos deberán ser digitales y contener una firma electrónica avanzada del autor",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Firma electronica",
+    "Articulo": "17-D",
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "En los documentos digitales, una firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Documento digital",
+    "Articulo": "17-D",
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Se entiende por documento digital todo mensaje de datos que contiene información o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología.",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Certificados",
+    "Articulo": "17-D",
+    "Fraccion": "",
+    "Ley": "CFF",
+    "Texto": "Para los efectos fiscales, los certificados tendrán una vigencia máxima de cuatro años, contados a partir de la fecha en que se hayan expedido. Antes de que concluya el periodo de vigencia de un certificado, su titular podrá solicitar uno nuevo",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Subcontratacion",
+    "Articulo": 13,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "Se permite la subcontratación de servicios especializados o de ejecución de obras especializadas que no formen parte del objeto social ni de la actividad económica preponderante de la beneficiaria de estos,",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Subcontratacion",
+    "Articulo": 14,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "La subcontratación de servicios especializados o de ejecución de obras especializadas deberá formalizarse mediante contrato por escrito en el que se señale el objeto de los servicios a proporcionar o las obras a ejecutar, así como el número aproximado de trabajadores que participarán en el cumplimiento de dicho contrato.",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Subcontratacion",
+    "Articulo": 15,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "Las personas físicas o morales que proporcionen los servicios de subcontratación, deberán contar con registro ante REPSE",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Empresa",
+    "Articulo": 16,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "Para los efectos de las normas de trabajo, se entiende por empresa la unidad económica de producción o distribución de bienes o servicios y por establecimiento la unidad técnica que como sucursal, agencia u otra forma semejante, sea parte integrante y contribuya a la realización de los fines de la empresa.",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Relacion de Trabajo",
+    "Articulo": 20,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "Se entiende por relación de trabajo, cualquiera que sea el acto que le dé origen, la prestación de un trabajo personal subordinado a una persona, mediante el pago de un salario.",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Contrato Individual de Trabajo",
+    "Articulo": 20,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "Contrato individual de trabajo, cualquiera que sea su forma o denominación, es aquel por virtud del cual una persona se obliga a prestar a otra un trabajo personal subordinado, mediante el pago de un salario.",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Existencia del Contrato",
+    "Articulo": 21,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "Se presumen la existencia del contrato y de la relación de trabajo entre el que presta un trabajo personal y el que lo recibe.",
+    "JURISPRUDENCIA APLICABLE": ""
+  },
+  {
+    "Palabra clave": "Condiciones de Trabajo",
+    "Articulo": 24,
+    "Fraccion": "",
+    "Ley": "LFT",
+    "Texto": "Las condiciones de trabajo deben hacerse constar por escrito cuando no existan contratos colectivos aplicables; en el articulo 25 LFT establece que condiciones de trabajo debera contener el escrito.",
+    "JURISPRUDENCIA APLICABLE": ""
+  }
+]

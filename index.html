@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buscador Jurídico</title>
+
+  <!-- Enlace al manifest para PWA -->
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icon-192.png" type="image/png">
+
+  <style>
+    body {
+      background-image: url('https://www.liderempresarial.com/wp-content/uploads/2020/12/lEY.jpeg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      color: #1c1c1c;
+      font-family: Arial, sans-serif;
+    }
+
+    .buscador {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 50px;
+    }
+
+    input, button {
+      padding: 10px;
+      margin: 10px 5px;
+      font-size: 16px;
+    }
+
+    button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #a7b8c9;
+    }
+
+    #resultados div {
+      background-color: rgb(255, 255, 255);
+      border: 1px solid #fffefe;
+      padding: 10px;
+      margin-top: 10px;
+      border-radius: 5px;
+    }
+
+    strong {
+      color: #007bff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="buscador">
+    <input type="text" id="criterio" placeholder="Escribe tu palabra clave">
+    <button onclick="buscar()">Buscar</button>
+  </div>
+
+  <div id="resultados"></div>
+
+  <script>
+    let baseLegal = [];
+    const diccionario = [
+      { entrada: "detencion", sugerencia: "detención" },
+      { entrada: "acusatorio", sugerencia: "proceso penal" }
+    ];
+
+    // 🔄 Cargar el archivo JSON
+    fetch('BaseDeDatos.json')
+      .then(response => response.json())
+      .then(data => {
+        baseLegal = data;
+        console.log("Datos cargados:", baseLegal);
+      })
+      .catch(error => {
+        console.error("Error al cargar JSON:", error);
+      });
+
+    // 🔍 Función de búsqueda
+    function buscar() {
+      const criterio = document.getElementById("criterio").value.trim().toLowerCase();
+      const resultados = baseLegal.filter(item =>
+        item["Palabra clave"].toLowerCase().includes(criterio) ||
+        item["Texto"].toLowerCase().includes(criterio)
+      );
+
+      const contenedor = document.getElementById("resultados");
+      contenedor.innerHTML = "";
+
+      if (resultados.length > 0) {
+        resultados.forEach((item, index) => {
+          contenedor.innerHTML += `
+            <div>
+              <strong>Resultado ${index + 1}:</strong><br>
+              Artículo: ${item["Articulo"]}<br>
+              Fracción: ${item["Fraccion"]}<br>
+              Ley: ${item["Ley"]}<br>
+              Texto: ${item["Texto"]}<br><br>
+            </div>
+          `;
+        });
+      } else {
+        const sugerencia = diccionario.find(item => item.entrada === criterio);
+        if (sugerencia) {
+          alert(`¿Quizás quisiste decir: ${sugerencia.sugerencia}?`);
+        } else {
+          alert("No se encontraron resultados.");
+        }
+      }
+    }
+  </script>
+
+</body>
+</html>
